@@ -1,0 +1,5 @@
+<div pw-canvas options="{width: 400, height: 300, color: '#ff0'}"></div>
+
+<script>
+angular.module('paint', ['pw.canvas-painter']);
+</script>
